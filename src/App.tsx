@@ -1,3 +1,5 @@
+// Code by Hanna Trinh and Nick Rogerson
+
 import './App.css'
 import {TaxStatusOO, Context, Single, Married, Separated} from "./TaxStatusOO.ts";
 import {marriedTax, selectTaxStrategy, separatedTax, singleTax} from "./TaxStatusFP.ts";
